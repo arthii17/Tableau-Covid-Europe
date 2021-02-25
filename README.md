@@ -9,6 +9,6 @@ Data was extracted from the European Centre for Disease Prevention and Control w
 Name of the dataset : Historical data (upto 14 December 2020) on the daily number of new reported COVID-19 cases and deaths worldwide. 
 
 Dashboard screenshot: 
-
+![image](https://github.com/arthii17/Tableau-Covid-Europe/blob/main/Screenshots/Dashboard.JPG)
 
 
