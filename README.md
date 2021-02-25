@@ -11,4 +11,15 @@ Name of the dataset : Historical data (upto 14 December 2020) on the daily numbe
 Dashboard screenshot: 
 ![image](https://github.com/arthii17/Tableau-Covid-Europe/blob/main/Screenshots/Dashboard.JPG)
 
+Default axis selected in Daily Cases & Deaths Charts: 
+![image](https://github.com/arthii17/Tableau-Covid-Europe/blob/main/Screenshots/Default_Axis.JPG)
+
+Log axis selected in Daily Cases & Deaths Charts: 
+![image](https://github.com/arthii17/Tableau-Covid-Europe/blob/main/Screenshots/Log_Axis.JPG)
+
+ToolTip Information displayed in the map area of dashboard: 
+![image](https://github.com/arthii17/Tableau-Covid-Europe/blob/main/Screenshots/Tooltip_Map.JPG)
+
+ToolTip Information displayed in the daily cases chart: 
+![image](https://github.com/arthii17/Tableau-Covid-Europe/blob/main/Screenshots/Tooltip_Cases.JPG)
 
